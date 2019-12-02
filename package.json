@@ -1,0 +1,17 @@
+{
+  "name": "adventofcode2019",
+  "version": "1.0.0",
+  "description": "Advent of Code 2019",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dannyskoog/adventofcode2019.git"
+  },
+  "scripts": {
+    "start": "jest"
+  },
+  "devDependencies": {
+    "fs": "^0.0.1-security",
+    "jest": "^24.9.0"
+  }
+}
